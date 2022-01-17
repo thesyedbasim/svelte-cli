@@ -21,8 +21,9 @@ Follow these steps:
 
 Initialize project:
 ```bash
-svelte create
+svelte create my-app
 ```
+Default directory will be the current working directory.
 
 ### Customize usage by passing flags
 
